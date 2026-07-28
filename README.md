@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7FE8FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Minecraft+Developer;Full-Stack+Developer;Building+Floraland+Studio" />
 
 [![Website](https://img.shields.io/badge/Website-floraland.vn-ff75c3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://floraland.vn)
-[![Discord](https://img.shields.io/badge/Discord-tanhuynh-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=YOURNAME&style=for-the-badge&color=7FE8FF)
+[![Discord](https://img.shields.io/badge/Discord-tahuranahashi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=tahuranahashi&style=for-the-badge&color=7FE8FF)
 
 </div>
 
